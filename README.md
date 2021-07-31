@@ -24,4 +24,4 @@ Calling all book worms! Are you searching for ways to find new books? Well, come
 
 
 ## The final production:
-![book-search-pic](./assets/book-screenshot.png)
+![book-search-pic](./Assets/book-screenshot.png)
